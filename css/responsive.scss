@@ -81,13 +81,22 @@
              li {
                  a {
                      padding: 0 10px;
-                     font-size: 14px;
+                     font-size: 12px;
                      border-right: none;
                      
                  }
              }
          }
      }
+    }
+	  .banner {
+        padding: 100px 0;
+        .fixed_width {
+            padding: 0 20px;
+        }
+        .banner_caption {
+           
+        }
     }
    
     .blog_left_content {
